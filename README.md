@@ -1,1 +1,1 @@
-# geotech-edu-visuals
+# geoedulab
